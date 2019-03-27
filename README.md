@@ -4,7 +4,9 @@ The image data of Natural Scenes around the world.Want to build powerful Neural 
 Files/directories used in the code:
 
 categories :- jason file containig the 6 different classes ('buildings','forest','glacier','mountain','sea', 'street').
+
 seg_train and seg_pred which are contained in a folder called classification which holds training and validation images.
+
 seg_pred :- containing the images to be predicted.
 
 
